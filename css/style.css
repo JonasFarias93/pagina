@@ -113,6 +113,7 @@ body.dark{
     height: 400px;
     padding: 10px;
     background-color: aqua;
+    border: #fff solid 10px;
 }
 
 P{
