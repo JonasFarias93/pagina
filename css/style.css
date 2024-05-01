@@ -92,7 +92,7 @@ body.dark{
 .central{
     background-color: black;
     width: 100%;
-    height: 400px;
+    height: 600px;
 }
 
 .footer p{
@@ -100,4 +100,22 @@ body.dark{
     height: 200px;
     background-color: gold;
     color: black;
+}
+
+.super_quadrado{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    margin: 40px;
+}
+.quadrado{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+}
+
+P{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
 }
